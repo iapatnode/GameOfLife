@@ -1,0 +1,8 @@
+Glider
+7
+8
+        
+  X     
+   X    
+ XXX    
+  
